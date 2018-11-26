@@ -1,4 +1,6 @@
 ## React-Native Template With Map
+In this project the intention was to create a proof of concept to show as fast as possible an APP made in a hybrid platform presenting maps and some points. The standarts for React are not the best but the gradle config and required libs of android.
+
 
 ### Suporte
 - Android Only (I have not implemented map support for ios yet)
